@@ -1,0 +1,55 @@
+
+.fontcolor1 {
+    background-color:darkred;
+}
+.fontcolor2{
+    background-color: cadetblue;
+}
+.fontcolor3 {
+    background-color:khaki;
+}
+.fontcolor4{
+    background-color: lightgreen;
+}
+.photos {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 60%
+}
+.column {
+    float: left;
+    width: 50%;
+}
+.postecolor{
+    width:50%;
+    text-align: center;
+    background-color:sandybrown;
+    background-position: center;
+    border-radius: 9px;
+    width: 50%, auto;
+    color:goldenrod;
+    font-size: 20px;
+}
+.text{
+    font-size: 40px;
+    font-weight: 500;
+    color:blue;
+    text-align: center;
+    text-shadow: black; 
+    text-decoration: underline;
+}
+.text1{
+    font-size: 40px;
+    font-weight: 500;
+    color:gold;
+    text-align: center;
+    text-shadow: black; 
+    text-decoration: underline;
+}
+.text2{
+    font-size: 30px;
+    font-weight: 500;
+    color:brown;
+    text-align: left;
+    text-shadow: black;
+}
